@@ -16,7 +16,7 @@
 I am backend software engineer and tech lover.
 
 ### Formações
-- 🎓 Graduated em Analisys and System developement FATEC-AM - 2º/2015
+- 🎓 Degree in Analisys and System developement FATEC-AM - 2º/2015
 - 🎓 Post degree in Mobile development (Android and iOS) IFSP - 2º/2019
 
 ## Hard skils
