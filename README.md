@@ -1,5 +1,7 @@
 # Leonardo Cornachione
 
+[(https://github-readme-stats.vercel.app/api?username=leohmcx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leohmcx)](https://github.com/leohmcx)
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leohmcx/)](https://www.linkedin.com/in/leohmcx/)-->
 
