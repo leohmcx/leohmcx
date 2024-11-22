@@ -1,23 +1,6 @@
 # Leonardo Cornachione
 
-class CamoProxyPathTest < Test::Unit::TestCase
-  include CamoProxyTests
-
-  def hexenc(image_url)
-    image_url.to_enum(:each_byte).map { |byte| "%02x" % byte }.join
-  end
-
-  def request_uri(image_url)
-    hexdigest = OpenSSL::HMAC.hexdigest(
-      OpenSSL::Digest.new('sha1'), config['key'], image_url)
-    encoded_image_url = hexenc(image_url)
-    "#{config['host']}/#{hexdigest}/#{encoded_image_url}"
-  end
-
-  def request(image_url)
-    RestClient.get(request_uri(image_url))
-  end
-end
+https://github-readme-stats.vercel.app/api?username=leohmcx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/leohmcx)](https://github.com/leohmcx)
 <!--[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leohmcx/)](https://www.linkedin.com/in/leohmcx/)-->
