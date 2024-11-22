@@ -25,7 +25,7 @@ I am backend software engineer and tech lover.
 ## Hard skils
 
 ### Backend
-- [x] Java 11 | Spring | Kotlin | Java EE | Python | Node
+- [x] Java 21 | Spring | Kotlin | Java EE | Python | Node
 - [x] Junit | Mockito | PowerMock | RestAssured
 - [x] Swagger | OpenApi
 - [x] Restful | SOAP | gRPC
